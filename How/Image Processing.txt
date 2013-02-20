@@ -1,0 +1,10 @@
+To ensure the imagery you receive is exceptional, we provide the following value added services:
+•	Precision Orthorectificatioin (geo-referencing) for better horizontal accuracy. Ground Control Points and a Digital Elevatioin Model (DEM) are required to correct the imagery for terrain displacement.
+•	Image mosaicing (combining multiple scenes/images into one seamless mosaic).
+•	Combing multiple satellite imagery products (GeoEye-1, QuickBird, etc.) and multiple image acquisition dates into a single image mosaic.
+•	Image enhancement
+o	Filtering
+o	Color / contrast manipulation
+•	Image compression
+•	Cloud minimization (usually vendor’s maximum cloud cover is 20%. We offer max 5%)
+•	High resolution / large format photographic prints

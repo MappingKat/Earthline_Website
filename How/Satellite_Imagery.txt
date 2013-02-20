@@ -1,1 +1,25 @@
-This is the space for all things PT Earthline. 
+CHART
+
+Supplier	Product(s)	Pixel Resolution
+DigitalGlobe (USA)	QuickBird
+WorldView-1
+WorldView-2	60cm x 60cm
+50cm x 50cm
+50cm x 50cm
+GeoEye/SPOT Asia (USA/Singapore)	IKONOS
+GeoEye-1
+Pleiades	1m x 1m
+50cm x 50cm
+50cm x 50cm
+
+SPOT IMAGE/SPOT Asia (France/Singapore)	SPOT 5	2.5m x 2.5m
+PASCO ( Japan)	ALOS
+ALOS STEREO Digital Terrain Model	2.5m x 2.5m
+Vertical Accuracy 5 - 7 m
+Intermap Technologies (USA)	IFSAR Radar Image
+IFSAR Digital Terrain Model	65cm x 65cm or 1.25m x 1.25m
+Vertical Accuracy 1-2m or 2-3m  
+KAI Image (Korea)	Kompsat	1m x 1m
+Infoterra/Spot Asia (Germany/Singapore)	TerraSAR-X	3m Digital Elevation Models
+		
+RapidEye (Germany)	RapidEye	6.5m x 6.5m
