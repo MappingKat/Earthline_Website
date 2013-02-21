@@ -1,0 +1,7 @@
+A satellite image is essentially a digital picture of the earth's surface taken from a camera on a satellite. 
+
+Images are broken down into pixels, or picture elements. Currently, the best public satellite images have pixels with a resolution of 50cm x 50cm.  There are several satellites on the market that images with resolution, or pixel count, that compete with much more expensive aerial surveys (imagery taken from a plane).
+
+This affordable alternative is an excellent source of valuable information about the current land use / land cover, forest cover / density, transportation and water networks, buildings, etc.
+
+//Include High and Low resolution charts and information

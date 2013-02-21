@@ -1,0 +1,36 @@
+Earthline creates digitized maps for customers using satellite or drone imagery or previously scanned information, such as topographic maps or aerial photography.  Our analysts use the Our method of digitization is company digitizes manually so On-screen digitizing is an interactive process 
+
+Heads-up Digitizing: It is similar to manual digitizing in the way that lines have to be drawn manually but directly on the computer screen. So in this level of accuracy increases and time taken decreases.
+
+This method of geocoding is also called "heads-up" digitizing, because the attention of the user is focused up on the screen rather than a digitizing tablet.
+
+This technique requires GIS (Geographic Information Systems, such as MapInfo or ArcGIS) software and allows to create new layers (points, lines and polygons) or themes.
+
+On-screen digitizing can also be employed in an editing session where there is enough information on the screen to accurately add new features without a reference image or map.
+
+
+•	Techical due diligance for:
+o	HGU/Ijin Lokasi  Boundary Reconciliation
+o	High Conservation Value Forest(HCVF) 
+o	Land Suitability and Plantable-Not Plantable Map
+o	Forest Area, moratorium, Production Forest, 
+o	Forest Reserve and Conservation
+o	Deep Peat/Swampy area
+o	Planted area and Plantable area
+•	Digital and Visual Image Interpretation
+o	Land use / Land cover Classification
+o	On-screen digitizing
+•	Land Development Map (Underbrushing,Stacking, and Planted)
+•	Palm Counting
+•	Identify Swamp and Peat Area
+•	Identify Drainage Area
+•	Identify Terrace Area
+•	Road Planning
+•	Block Design
+•	Camp/Office Site Identification
+•	Mill Site Identification
+•	Block Maps "Score Card" 
+•	Master Plan Maps
+
+
+In order to keep the file size at a reasonable level,EarthLine provides all leading methods of image compression (.ecw; MrSID). The quality loss on the compressed imagery is only marginal and the big advantage is that most compressed imagery files can be burned on a CD and are much easier to handle on slow desktop computers. 

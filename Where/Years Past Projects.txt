@@ -1,0 +1,56 @@
+No	Customer	Project Description	Total Area
+(ha)
+1	Technical Due Diligance 
+•	50cm High Resolution Satellite Imagery
+•	Identify Planted area
+•	Identify Plantable area
+•	Palm counting for Stand per Hectare by block
+•	Identify cultivated area(Ladang masyarakat) for high compensation area
+•	Identify peat/swampy area
+•	Identify forest, settlement, and other landcover
+•	Duration : 1.5 months (March – April 2012)	18,000 
+2	Technical Due Diligance 
+•	50cm High Resolution Satellite Imagery
+•	Identify Plantable area
+•	Identify Deep peat / swampy area
+•	Identify cultivated area(Ladang masyarakat) for high compensation area
+•	Identify forest, settlement, and other landcover
+•	Identify sandy area
+•	Duration : 1.5 months (March – April 2012)	45,000 
+3	Palm Counting
+•	50cm High Resolution Satellite Imagery
+•	Identify Planted area
+•	Palm counting for Stand per Hectare by year planted
+•	Identify Vacant area
+•	Identify cultivated area(Ladang masyarakat). Encroachment area.
+•	Identify forest, settlement, and other landcover
+•	Identify facilities area
+•	Duration : 2 months (April - May 2012)	48,000 
+4	PT. Agrinexus International (Malaysia)
+	PT.  Proteksindo, PT. Lubai, PT. Waringin
+•	50cm High Resolution Satellite Imagery
+•	Identify Planted area
+•	Identify Plantable area
+•	Palm counting for Stand per Hectare by year planted
+•	Identify cultivated area(Ladang masyarakat) for high compensation area
+•	Identify forest, settlement, and other landcover
+•	Identify peat/swampy area
+•	Duration : 2 months (August  – Sept 2012)	30,000
+
+5	Technical Due Diligance 
+•	50cm High Resolution Satellite Imagery
+•	Identify Planted area
+•	Identify Plantable area
+•	Palm counting for Stand per Hectare by year planted
+•	Identify cultivated area(Ladang masyarakat) for high compensation area
+•	Identify forest, settlement, and other landcover
+•	Identify peat/swampy area
+•	Duration : 2 months (Sept – Oct 2012)	15,000 
+
+6	Land Suitability for Oil Palm – Africa
+•	6.5m Medium Resolution Satellite Imagery
+•	Identify Plantable area
+•	Identify cultivated area for high compensation
+•	Identify forest, settlement, and other landcover
+•	Identify peat/swampy area
+•	Duration : 1 month (Dec 2012 – Jan 2013)	56,000 

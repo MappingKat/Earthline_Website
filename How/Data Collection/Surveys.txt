@@ -1,0 +1,15 @@
+•	Ground Control Point Survey for Image rectification and Terrain Data Processing for DEM Creation
+•	Ground Truthing Survey for Landcover/Landuse Mapping
+•	HGU/Ijin Lokasi for Estate Boundary Reconciliation or Checking
+•	Landcover Mapping and Palm Counting over the area under cloud
+•	Land Development survey to map underbrushing/felling, stacking and planted area for contractor data verification. Also guide Buldozer and Check contractor data.
+•	Soil Survey to identify Soil Map Unit, produce Lamd Suitability Map and verify a Plantable and Not Plantable Area.
+?	Reconaisance Soil Survey ( Map Scale 1:250,000)
+?	Semi Detailed Soil Survey (1km Grid for Soil Survey Points)
+?	Detailed Soil Survey (500m Grid for Detailed Soil Survey Points)
+•	Roads, Drains, Terraces, and Bund Survey
+•	Survey The Bridges, Culvert, and Water level survey for flood map over Digital Terrain Model data.
+•	Topographic Survey with Total Stations of GPS RTK for 1m contour interval
+•	Bathymetry Survey for River bed or sea bed floor surface data (1 meter depth contour)
+o	Rivers used for transporting
+o	Coastal areas for jetty planning and hazard mapping
