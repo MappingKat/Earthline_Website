@@ -1,3 +1,5 @@
+After acquiring imagery from partners or databases, it is necessary to make sure it is located in the correct place (georeference) with best blend between and among images.  Earthline is able to combine and mosaic images so that they are as up-to-date and cloud-free as possible.  
+
 To ensure the imagery you receive is exceptional, we process the imagery through a number of different techniques:
 •Precise Orthorectification (geo-referencing) for better horizontal accuracy. ORTHORECTIFICATION
 is required in areas that are hilly or mountenous and/or of high elevation. Ground Control Points and a Digital Elevation Model (DEM) is required to correct the imagery for terrain displacement.
